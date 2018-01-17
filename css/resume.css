@@ -10,9 +10,6 @@ body {
   padding-top: 54px;
   color: #868e96; }
 
-  korean {
-    font-family: 'Nanum Gothic'
-  }
 
 @media (min-width: 992px) {
   body {
