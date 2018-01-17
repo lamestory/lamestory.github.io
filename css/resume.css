@@ -3,8 +3,13 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
-@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
-body, table, div, p {font-family:'Nanum Gothic';}
+@import url('http://fonts.googleapis.com/earlyaccess/notosanskr.css' ) ;
+body,li, p { font-family:'Noto Sans KR', sans-serif; !important ; }
+
+@import url('//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css') ;
+body,li, p { font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif'; !important ; }
+
+h1, h2, h3, h4 { font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif'; font-weight: 700; !important ; }
 
 body {
   font-family: 'Nanum Gothic', 'Open Sans', serif;
