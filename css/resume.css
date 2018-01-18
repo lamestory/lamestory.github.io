@@ -4,10 +4,17 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 
-@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+@import url('//fonts.googleapis.com/earlyaccess/nanumgothic.css');
+
+.text_box {
+	font-family : 'Nanum Gothic';
+	text-align : center;
+	padding : 10px 0;
+}
+
 
 body {
-  font-family: 'nanumgothic', 'Open Sans', serif;
+  font-family: 'Open Sans', serif;
   padding-top: 54px;
   color: #868e96; }
 
@@ -23,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'nanumgothic', 'Saira Extra Condensed', serif;
+  font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40; }
